@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="waterman-smith:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/waterman_smith_jar</output-path>
+    <root id="archive" name="waterman-smith.jar">
+      <element id="module-output" name="waterman-smith" />
+    </root>
+  </artifact>
+</component>
